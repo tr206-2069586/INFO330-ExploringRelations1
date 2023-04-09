@@ -29,3 +29,9 @@ SELECT DISTINCT age FROM persons WHERE address LIKE "%Street";
 .print "-------------"
 .read question-10.sql
 .print "-------------"
+.read extra-1.sql
+.print "-------------"
+.read extra-2.sql
+.print "-------------"
+.read extra-3.sql
+.print "-------------"
