@@ -1,0 +1,1 @@
+INSERT INTO persons VALUES('Tyler', 'Ramos', 'tr206@uw.edu', 'Male', 'Mr', 20, '4522 18th Ave NE', 'Seattle', 'Washington', 98105, '123-456-7890')

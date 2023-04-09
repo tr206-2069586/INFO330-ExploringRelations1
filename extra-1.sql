@@ -1,0 +1,1 @@
+SELECT first_name, last_name, age FROM persons WHERE (gender = 'Female' AND title = 'Dr' AND city = 'West Palm Beach' AND state = 'Florida'), (gender = 'Male' AND title = 'Rev' AND city = 'Phoenix' AND state = 'Arizona');
